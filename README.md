@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My First Website
 
-You can use the [editor on GitHub](https://github.com/ashil4/ashilstone.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is where anything I create will come to life.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
