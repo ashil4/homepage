@@ -7,11 +7,15 @@ This is where anything I create will come to life.
 Here is where i'll be posting my top book recommendations. I suggest you give them a try!
 
 ```markdown
-Syntax highlighted code block
+# Australia Needs our Help
 
-# Header 1
-## Header 2
-### Header 3
+Please follow my link to contribute directly to those in need. To find out more about what is going on visit (https://www.foxnews.com/world/australia-wildfires-evacuation-forecast-dangerous-morrison-corrected)
+## Directly Contribute
+
+https://www.redcross.org.au/
+### How Individuals are Stepping Up to the Plate
+
+(https://weather.com/news/trending/video/family-loads-car-with-koalas-in-makeshift-rescue-attempt-from-australia-fires)
 
 - Bulleted
 - List
