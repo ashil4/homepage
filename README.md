@@ -2,9 +2,9 @@
 
 This is where anything I create will come to life.
 
-### Markdown
+### My Top 5 Books
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is where i'll be posting my top book recommendations. I suggest you give them a try!
 
 ```markdown
 Syntax highlighted code block
