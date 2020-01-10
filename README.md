@@ -12,7 +12,7 @@ Please follow my link to contribute directly to those in need. To find out more 
 ## Directly Contribute
 
 https://www.redcross.org.au/
-### How Individuals are Stepping Up to the Plate
+### How Others are Stepping Up to the Plate
 
 https://weather.com/news/trending/video/family-loads-car-with-koalas-in-makeshift-rescue-attempt-from-australia-fires
 
